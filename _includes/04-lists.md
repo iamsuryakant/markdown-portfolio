@@ -1,7 +1,7 @@
-Replace this with a list of your favorite things.
-# Skills
-* C or C++
-* HTML and CSS
-* Java
-* Python
-* Basics Of Unity.
+# My Favourite Stuffs
+* Programming
+* Designing
+* Reading books
+* Gardening
+* Singing and Listening music
+* Internet Suffering and Learning & Creating new things.
